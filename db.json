@@ -1,0 +1,171 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "firstname": "Ad",
+      "lastname": "Minister",
+      "email": "admin@mail.com",
+      "password": "$2b$10$lLm5Lp40uBR9CUrZn58CdOl8yu5Gp2umAO.6ly.vWcZ0a0vUKsHiC",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
+      "userLevel": 4,
+      "createdAt": 1670165980638
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "userId": 48,
+      "title": "Learn React",
+      "completed": true,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 2,
+      "userId": 44,
+      "title": "Learn Javascript",
+      "completed": true,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 3,
+      "userId": 23,
+      "title": "Do something",
+      "completed": true,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 4,
+      "userId": 47,
+      "title": "Play Game",
+      "completed": false,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 5,
+      "userId": 41,
+      "title": "Learn CRUD",
+      "completed": false,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 6,
+      "userId": 12,
+      "title": "Learn Material UI",
+      "completed": true,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 7,
+      "userId": 25,
+      "title": "Watch FIFA",
+      "completed": true,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 8,
+      "userId": 38,
+      "title": "shabby Pixiebob",
+      "completed": false,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 9,
+      "userId": 14,
+      "title": "corny Devon Rex",
+      "completed": false,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 10,
+      "userId": 11,
+      "title": "normal Donskoy",
+      "completed": false,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 11,
+      "userId": 4,
+      "title": "fuzzy Burmese",
+      "completed": true,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 13,
+      "userId": 35,
+      "title": "liquid Himalayan",
+      "completed": false,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 14,
+      "userId": 13,
+      "title": "miniature Turkish Van",
+      "completed": true,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 15,
+      "userId": 38,
+      "title": "calculating Balinese",
+      "completed": false,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 16,
+      "userId": 12,
+      "title": "tight Minskin",
+      "completed": true,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 17,
+      "userId": 16,
+      "title": "naive Chartreux",
+      "completed": true,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 18,
+      "userId": 38,
+      "title": "negligible Oriental",
+      "completed": false,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 19,
+      "userId": 29,
+      "title": "neglected Scottish Fold",
+      "completed": false,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 20,
+      "userId": 32,
+      "title": "edible Birman",
+      "completed": false,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 21,
+      "userId": 41,
+      "title": "criminal Sokoke",
+      "completed": true,
+      "createdAt": 1670165983412
+    },
+    {
+      "id": 22,
+      "userId": 7,
+      "title": "terrible Japanese Bobtail",
+      "completed": true,
+      "createdAt": 1670165983412
+    },
+    {
+      "title": "Make Projects",
+      "completed": false,
+      "createdAt": 1670766141364,
+      "id": "APcekBFQxJ",
+      "userId": 2
+    }
+  ]
+}
